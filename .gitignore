@@ -1,1 +1,1 @@
-.idea
+print ("3" in str(N) and "7" in str(N))
