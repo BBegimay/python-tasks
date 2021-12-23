@@ -7,8 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def test_login():
     """
-   Проверка логина
-   """
+     Проверка логина
+    """
     driver = webdriver.Chrome('/Users/begimaybaiturinova/Downloads/chromedriver')
     driver.get('http://petfriends1.herokuapp.com/login')
 
